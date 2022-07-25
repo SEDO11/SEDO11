@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align=center>
-  
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" href="https://www.youtube.com/channel/UCgJ8iR8g3_7Cx-kqZZAcRrQ">
 [![Blog Badge](https://img.shields.io/badge/-Blog-21759B?style=flat-square&logo=Wordpress&logoColor=white&link=https://blog.naver.com/tmvmffpsej)](https://blog.naver.com/tmvmffpsej)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/se_do11/)](https://www.instagram.com/se_do11/)
 [![Youtub Badge](https://img.shields.io/badge/-Youtube-ff0000?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCgJ8iR8g3_7Cx-kqZZAcRrQ)](https://www.youtube.com/channel/UCgJ8iR8g3_7Cx-kqZZAcRrQ)
