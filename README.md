@@ -8,3 +8,11 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&link=https://www.reddit.com/user/Educational_Daikon87)](https://www.reddit.com/user/Educational_Daikon87)
   
 </div>
+
+<div align=center>
+  
+[![][(https://img.shields.io/badge/-Blog-21759B?style=flat-square&logo=Wordpress&logoColor=white)]
+[![][([(https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white))]
+
+  
+</div>
