@@ -1,11 +1,14 @@
 ### Hi there 👋
 
 <div align=center>
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" href="https://www.youtube.com/channel/UCgJ8iR8g3_7Cx-kqZZAcRrQ">
-[![Blog Badge](https://img.shields.io/badge/-Blog-21759B?style=flat-square&logo=Wordpress&logoColor=white&link=https://blog.naver.com/tmvmffpsej)](https://blog.naver.com/tmvmffpsej)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/se_do11/)](https://www.instagram.com/se_do11/)
-[![Youtub Badge](https://img.shields.io/badge/-Youtube-ff0000?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCgJ8iR8g3_7Cx-kqZZAcRrQ)](https://www.youtube.com/channel/UCgJ8iR8g3_7Cx-kqZZAcRrQ)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&link=https://www.reddit.com/user/Educational_Daikon87)](https://www.reddit.com/user/Educational_Daikon87)
+<a href="https://www.youtube.com/channel/UCgJ8iR8g3_7Cx-kqZZAcRrQ" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://www.instagram.com/se_do11/"target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://blog.naver.com/tmvmffpsej" target="_blank">
+      <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
+<a href="https://www.reddit.com/user/Educational_Daikon87" target="_blank">
+      <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
   
 </div>
 
