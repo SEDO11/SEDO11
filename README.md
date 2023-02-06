@@ -25,5 +25,5 @@
 </div>
 
 <div align=center>
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEDO11&show_icons=true&theme=dark)
+      https://github-readme-stats.vercel.app/api?username=SEDO11&show_icons=true&theme=dark
       </div>
