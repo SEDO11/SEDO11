@@ -23,3 +23,7 @@
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
       <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
 </div>
+
+<div align=center>
+      github-readme-stats.vercel.app/api?username={}&show_icons=true
+      </div>
